@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+        "spec": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/apm-install-dir-11697-76870-lutgac"
+    ]
+  ],
+  "_from": "../d-11697-76870-1oq4td6/package.tgz",
+  "_id": "language-fish-shell@1.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-fish-shell",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+    "spec": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11697-76870-1oq4td6/package.tgz",
+  "_shasum": "01a750dc11f68d3fe7dae3dda43f633bfa4a5e19",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/d-11697-76870-1oq4td6/package.tgz",
+  "_where": "/private/var/folders/kx/sv3_ncfs4q58lt8vzxw4h1640000gn/T/apm-install-dir-11697-76870-lutgac",
+  "bugs": {
+    "url": "https://github.com/davidcelis/language-fish-shell/issues"
+  },
+  "dependencies": {},
+  "description": "Snippets and syntax highlighting for Fish, the friendly interactive shell.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/davidcelis/language-fish-shell#readme",
+  "license": "MIT",
+  "name": "language-fish-shell",
+  "optionalDependencies": {},
+  "readme": "# language-fish-shell package\n\nAtom snippets and syntax highlighting for Fish, the friendly interactive shell. Originally converted from [fish.tmBundle][fish-tm-bundle].\n\n![Screenshot](https://i.cloudup.com/jB340iQs7D-1200x1200.png)\n\n[fish-tm-bundle]: https://github.com/l15n/fish-tmbundle\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcelis/language-fish-shell.git"
+  },
+  "version": "1.0.5"
+}

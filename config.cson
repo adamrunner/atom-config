@@ -1,0 +1,54 @@
+"*":
+  "arduino-toolbelt":
+    devicePort: "/dev/tty.usbserial-A50285BI"
+  "autocomplete-ruby": {}
+  "base16-syntax":
+    scheme: "Tomorrow"
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    excludeVcsIgnoredPaths: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ".pioenvs"
+      ".piolibdeps"
+      ".clang_complete"
+      ".gcc-flags.json"
+    ]
+    projectHome: "/Users/adamrunner/rails"
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+    useCustomTitleBar: true
+  editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 15
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "4df598e7-f2b4-ab68-5975-9d6ed1e0998f"
+  linter:
+    showErrorPanel: false
+  pigments: {}
+  react: {}
+  tabs: {}
+  "tool-bar":
+    position: "Left"
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
